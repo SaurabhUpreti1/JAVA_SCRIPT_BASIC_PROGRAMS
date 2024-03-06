@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#weathericon{
+    color: rgb(164, 164, 20);
+    margin-left: 5px;
+}
+.container-fluid{
+    background-color: rgb(76, 76, 211);
+    border: 2px black solid;
+
+}
+.btn-outline-success{
+    color: white;
+    background-color: black
+}
+.backgroundimage img{
+    height: 50vh;
+    width: 100%;
+    border: solid black 2px;
+    padding: 4px;
+    background-color: black;
+    opacity: 50%;
+}
+.card{
+    width: 100%;
+   align-items: center;
+   height: 40vh;
+border: none;
+gap: 45px;
+}
